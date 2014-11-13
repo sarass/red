@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-99.174598,19.393664]
+        },
+        "properties": {
+          "title": "World Trade Center Ciudad de Mexico",
+          "info": "World Trade Center"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-99.14056,19.43393]
+        },
+        "properties": {
+          "place": "Torre Latino Americana Ciudad de Mexico",
+          "description": "Torre Latino Americana" 
+        }
+      },
+
+          {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-99.17545,19.49758]
+        },
+        "properties": {
+          "title": "Arena Ciudad de Mexico",
+          "info": "Arena "
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-99.095613,19.405114]
+        },
+        "properties": {
+          "place": "Foro Sol Ciudad de Mexico",
+          "description": "Foro Sol"
+        }
+      },
+       {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-99.099865,19.405336]
+        },
+        "properties": {
+          "place": "Palacio de los deportes Ciudad de Mexico",
+          "description": "Palacio de los deportes"
+        }
+      },
+        {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-99.150528,19.302861]
+        },
+        "properties": {
+          "title": "Estadio Azteca Ciudad de Mexico",
+          "info": "Estadio Azteca"
+        }
+      }
+     
+    ]
+}
